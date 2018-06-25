@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytynTests.dll
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytynTests.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytyn.exe
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.dll
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytyn.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.xml
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.dll
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytynTests.dll
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytynTests.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytyn.exe
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.dll
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\ModuleTytyn.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\bin\Debug\nunit.framework.xml
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.dll
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytynTests\obj\Debug\ModuleTytynTests.pdb

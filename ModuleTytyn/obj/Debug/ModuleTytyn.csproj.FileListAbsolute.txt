@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.exe
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.exe
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.AboutBox1.resources
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.exe.config
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.exe
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.exe
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\bin\Debug\ModuleTytyn.pdb
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.AboutBox1.resources
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.Form1.resources
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ModuleTytyn\ModuleTytyn\obj\Debug\ModuleTytyn.csproj.GenerateResource.Cache
